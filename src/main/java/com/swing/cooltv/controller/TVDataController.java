@@ -20,6 +20,7 @@ public class TVDataController {
         List<String> filenames = new ArrayList<String>(){{
             add("央视卫视高清频道");
             add("影视轮播频道");
+            add("海外频道");
             add("浙江移动IPTV");
         }};
 
